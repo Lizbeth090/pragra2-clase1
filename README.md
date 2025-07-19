@@ -1,2 +1,2 @@
-# pragra2-clase1
-nos pidieron hacerlo
+# progra2-clase1
+hola
